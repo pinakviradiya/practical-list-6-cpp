@@ -8,7 +8,8 @@ int main() {
 
 
     if (outputFile.is_open()) {
-      
+      cout<< "Viradiya pinak";
+       cout<< "220130318014";
         outputFile << "Hello, this is a test." << endl;
         outputFile << "Writing to a file using C++." << endl;
 
