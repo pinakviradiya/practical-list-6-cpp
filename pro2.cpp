@@ -17,6 +17,8 @@ int main() {
        
         inputFile.close();
     } else {
+        cout<< "Viradiya pinak";
+    	cout<< "220130318014";
         cout << "Error opening the file." << endl;
     }
 
