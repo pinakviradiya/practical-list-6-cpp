@@ -19,7 +19,8 @@ int main() {
 
 
         inputFile.close();
-
+         cout<< "Viradiya pinak";
+    			 cout<< "220130318014";
         cout << "Number of characters in the file: " << characterCount << endl;
     } else {
         cout << "Error opening the file." << endl;
